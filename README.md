@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contribution
 
-Contributions are welcome! Please follow the [code style guidelines](code-style-guidelines.md) and check out the [issues]([issues.md](https://github.com/CodedbyChino/Bucket-List-Tracker/blob/main/ISSUES.md)) for ways you can contribute to the project.
+Contributions are welcome! Please follow the [code style guidelines](https://github.com/CodedbyChino/Bucket-List-Tracker/blob/main/code%20style%20guidelines.md) and check out the [issues](https://github.com/CodedbyChino/Bucket-List-Tracker/blob/main/ISSUES.md)) for ways you can contribute to the project.
